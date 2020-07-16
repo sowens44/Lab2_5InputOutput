@@ -7,7 +7,7 @@ namespace Lab2_5InputOutput
         static void Main(string[] args)
         {
             //Lab2_5 New Changes today 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World, I'm here!");
             // 1
             int intFirstNumber = 0;
             int intSecondNumber = 0;
